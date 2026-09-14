@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Airflow
+logs/
+airflow.cfg
+
+# Generated data
+data/pdfs/
+data/markdown/
+
+# Database / local data
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
