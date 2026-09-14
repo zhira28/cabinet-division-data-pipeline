@@ -1,0 +1,7 @@
+requests 
+beautifulsoup4 
+pymongo 
+python-dotenv 
+pymupdf 
+pymupdf4llm 
+tenacity
